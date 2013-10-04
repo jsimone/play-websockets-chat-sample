@@ -1,9 +1,15 @@
-2013-10-03 23:20:19,877 - [INFO] - from play in pool-4-thread-2 
+2013-10-03 23:58:56,527 - [INFO] - from play in pool-4-thread-4 
 Listening for HTTP on /0:0:0:0:0:0:0:0%0:9000
 
-2013-10-03 23:20:52,121 - [INFO] - from play in play-internal-execution-context-1 
+2013-10-03 23:59:08,896 - [INFO] - from application in play-internal-execution-context-1 
+Redis Plugin enabled. Connecting to Redis on tarpon.redistogo.com:9957 with timeout 2000.
+
+2013-10-03 23:59:08,905 - [INFO] - from application in play-internal-execution-context-1 
+Redis Plugin pool configuration: redis.clients.jedis.JedisPoolConfig@574ec926[maxIdle=8,minIdle=0,maxActive=8,maxWait=-1,whenExhaustedAction=1,testOnBorrow=false,testOnReturn=false,testWhileIdle=true,timeBetweenEvictionRunsMillis=30000,numTestsPerEvictionRun=-1,minEvictableIdleTimeMillis=60000,softMinEvictableIdleTimeMillis=-1,lifo=true]
+
+2013-10-03 23:59:09,001 - [INFO] - from play in play-internal-execution-context-1 
 Application started (Dev)
 
-2013-10-03 23:20:57,298 - [INFO] - from play in New I/O worker #5 
+2013-10-03 23:59:29,103 - [INFO] - from play in New I/O worker #7 
 Starting application default Akka system.
 

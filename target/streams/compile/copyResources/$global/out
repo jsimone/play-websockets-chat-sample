@@ -1,4 +1,0 @@
-[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
-[0m[[0mdebug[0m] [0m	(/Users/jsimone/dev/gitrepos/websocket-chat-clean-copy/conf/application.conf,/Users/jsimone/dev/gitrepos/websocket-chat-clean-copy/target/scala-2.10/classes/application.conf)[0m
-[0m[[0mdebug[0m] [0m	(/Users/jsimone/dev/gitrepos/websocket-chat-clean-copy/conf/play.plugins,/Users/jsimone/dev/gitrepos/websocket-chat-clean-copy/target/scala-2.10/classes/play.plugins)[0m
-[0m[[0mdebug[0m] [0m	(/Users/jsimone/dev/gitrepos/websocket-chat-clean-copy/conf/routes,/Users/jsimone/dev/gitrepos/websocket-chat-clean-copy/target/scala-2.10/classes/routes)[0m

@@ -10,7 +10,7 @@ libraryDependencies ++= Seq(
   javaJdbc,
   javaEbean,
   cache,
-  "com.typesafe" %% "play-plugins-redis" % "2.1-1-RC2"
+  "com.typesafe" %% "play-plugins-redis" % "2.1.1"
 )    
 
 resolvers += "org.sedis" at "http://pk11-scratch.googlecode.com/svn/trunk"
